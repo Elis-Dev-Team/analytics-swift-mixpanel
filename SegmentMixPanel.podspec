@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name = "AnalyticsSwiftMixpanel"
+    s.name = "SegmentMixPanel"
     s.version = "1.1.3"
     s.license = "MIT"
     s.summary = "Add Mixpanel device mode support to your applications via this plugin for Analytics-Swift."

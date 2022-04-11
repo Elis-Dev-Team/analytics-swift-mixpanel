@@ -13,4 +13,5 @@ Pod::Spec.new do |s|
     s.source_files = "Sources/**/*.swift"
 
     s.dependency 'Mixpanel'
+    s.dependency 'Segment'
 end
